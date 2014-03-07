@@ -38,7 +38,7 @@ defaultOptions =
   restartOnRequestAfter: 500
 
   # What element should the pace element be appended to on the page?
-  target: 'body'
+  target: ''
 
   elements:
     # How frequently in ms should we check for the elements being tested for
